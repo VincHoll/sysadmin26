@@ -1,0 +1,2 @@
+3 Sequence headers contain "bta"
+
