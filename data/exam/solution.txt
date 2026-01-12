@@ -1,0 +1,4 @@
+Lösungen:
+2- 603
+3- 12
+4- kleinste 18, frößte 99999
