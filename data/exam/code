@@ -1,0 +1,9 @@
+1. for file in */; do mv $file "$file"/*.fai "$file/index"; done
+
+2. wc -l 01.fa
+
+3. grep bta 02.txt | wc -l
+
+4. cat numbers.txt | sort -n | head -1    und     cat numbers.txt | sort -n | tail -1 
+
+5. rm numbers.txt
